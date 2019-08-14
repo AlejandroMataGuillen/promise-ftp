@@ -24,7 +24,7 @@
     "node"
   ],
   "dependencies": {
-    "@icetee/ftp": "https://github.com/alejandromataguillen/node-ftp/tarball/master",
+    "@icetee/ftp": "https://github.com/AlejandroMataGuillen/node-ftp/archive/1.tar.gz",
     "bluebird": "2.x",
     "promise-ftp-common": "^1.1.5"
   },
